@@ -6,3 +6,6 @@ This paper proposes a new metasurface-assisted ultrasound positioning system. Th
 ## Anchor Depoyment
 Our localization scenarios are evaluated in the following three rooms: a 3.5 m × 4 m small room, a 2 m × 14 m lobby, and a 5 m × 12 m large room. Four anchors are deployed in each scene. The deployment of anchors is as follows. The anchors's depolyment is as follows.
 ![Scenario](./img/scene.png)
+
+## Demo 
+The video demonstrates a scenario where four anchors are deployed in the environment. As the robot moves, the spectrograms of the four anchors, as perceived by the robot, dynamically change with variations in position.
