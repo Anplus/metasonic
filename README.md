@@ -9,3 +9,7 @@ Our localization scenarios are evaluated in the following three rooms: a 3.5 m Ã
 
 ## Demo 
 The video demonstrates a scenario where four anchors are deployed in the environment. As the robot moves, the spectrograms of the four anchors, as perceived by the robot, dynamically change with variations in position.
+<video width="640" height="360" controls>
+  <source src="./img/spectrum_and_moving_robot.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
