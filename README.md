@@ -25,7 +25,7 @@ The video demonstrates a scenario where four anchors are deployed in the environ
 ## References
 
 To cite our paper, use the following BibTeX entry:
-
+```bibtex
 @article{wang2025metasonic,
   title={MetaSonic: Advancing Robot Localization with Directional Embedded Acoustic Signals},
   author={Wang, Junling and An, Zhenlin and Guo, Yi},
@@ -33,3 +33,4 @@ To cite our paper, use the following BibTeX entry:
   year={2025},
   publisher={IEEE}
 }
+```
